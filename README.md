@@ -3,8 +3,7 @@
 
 A simple shell in C programming is a basic implementation of a Unix-like command-line shell. A shell is a program that provides a text-based interface for users to interact with an operating system by entering commands. It parses user input, executes commands, and manages processes.
 
-<img width="883" alt="shell" src="https://github.com/obithelight/simple_shell/assets/91734251/f7c09b48-0ec0-44aa-97a3-6f9d9413c89d">
-
+![simple_shell](https://github.com/daviewisdm/simple_shell/assets/91734251/a7a97b4c-7f63-44bd-a21e-561395f8605f)
 
 ### A simple shell typically includes the following basic functionalities:
 
