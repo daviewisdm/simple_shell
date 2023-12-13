@@ -9,10 +9,7 @@
 #include <sys/wait.h>
 #include <sys/types.h>
 
-#define MAX_USER_INPUT 100
+#define MAX_USER_INPUT 1024
 #define MAX_ARGS 10
-
-void display_user_prompt(void)
-void launch_executable(char *user_input)
 
 #endif /* SHELL_H */
