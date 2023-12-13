@@ -1,5 +1,5 @@
 # 0x16. C - Building A Simple Shell
-### C Programming, Group Project, System Call 
+### C Programming, Group Project, System Call
 
 ![simple_shell](https://github.com/daviewisdm/simple_shell/assets/91734251/a7a97b4c-7f63-44bd-a21e-561395f8605f)
 
@@ -20,7 +20,7 @@ Simple shell in C programming is a basic implementation of a Unix-like command-l
 - Environmental Variables: It manages environmental variables and allows users to set or modify them.
 
 ## System Call
- 
+
 A system call (often abbreviated as syscall) is a fundamental interface between a program and the operating system (OS). It allows a program to request services or perform various operations provided by the OS. System calls serve as a bridge between user-level applications and the lower-level kernel of the operating system, enabling processes to access the underlying hardware and perform privileged operations.
 
 System calls are a fundamental building block of modern operating systems, allowing applications to access hardware resources, manage processes, and perform a wide range of tasks in a controlled and secure manner. They provide the foundation for the interaction between software and the underlying hardware of a computer system.
