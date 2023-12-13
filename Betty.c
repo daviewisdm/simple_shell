@@ -1,4 +1,5 @@
 #include "shell.h"
+#include <stdio.h>
 
 /**
  * main - program that performs arithmetic functions on two arguments
